@@ -1,5 +1,5 @@
-.logo{
-display: inline-block;
+.logo {
+  display: inline-block;
 }
 /* .nav{
 display: inline-block;
@@ -26,25 +26,23 @@ display: inline-block;
 
 }  */
 
-  /* header section */
+/* header section */
 .header {
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
 }
-.nav *{
+.nav * {
   display: flex;
   flex-direction: row;
   text-decoration: none;
   gap: 15px;
   margin-right: 5px;
 }
-.button{
+.button {
   margin-right: 75%;
 }
 
 /* hero secion */
-
-
 
 /* .hero-area{
   display: grid;
@@ -54,122 +52,118 @@ display: inline-block;
   margin-right: 10px;
 } */
 
-
-
-
-
-.hilight{
-          color: rgba(14, 14, 246, 0.752);
+.hilight {
+  color: rgba(14, 14, 246, 0.752);
 }
-#z{
-          width: 65px;
-          margin-bottom: 19px;
-          margin-left: -32px;
-          position: relative;
+#z {
+  width: 65px;
+  margin-bottom: 19px;
+  margin-left: -32px;
+  position: relative;
 }
-.services h2{
-          text-align: center;
+.services h2 {
+  text-align: center;
 }
-.services p{
-          text-align: center;
-
+.services p {
+  text-align: center;
 }
-.img{
-          text-align-last: center;
-} 
-#q{
-          margin-left: 598px;
-          justify-content: center;
+.img {
+  text-align-last: center;
 }
-.information-catagory h4{
-          display: inline-block;
+#q {
+  margin-left: 598px;
+  justify-content: center;
 }
-.information-catagory p{
-          margin-left: 40px;
+.information-catagory h4 {
+  display: inline-block;
 }
-.footer p{
-          color: red;
-          font-size: 25px;
+.information-catagory p {
+  margin-left: 40px;
 }
-.hero-area{
+.footer p {
+  color: red;
+  font-size: 25px;
+}
+.hero-area {
   display: inline-block;
   position: absolute;
   margin-top: 90px;
 }
-.aside-area{
+.aside-area {
   display: inline-block;
   font-size: 280px;
 }
-.shahi-area{
-          display: inline-block; 
+.shahi-area {
+  display: inline-block;
 }
-.app-area{
-          font-size: 16px;
-          position: relative;
-          margin-top: -270px; 
-          margin-left:290px ; 
-          
-          flex-wrap: wrap;
-}
-.information-area{
-          display: inline-block;
-          position: relative;
-          margin-top: 90px; 
-          margin-left: 45px;
-}
-.shazzatul-area{
-          display: inline-block;
-}
-.Contact-form{
-          display: inline-block;
-}
-.Contact-list{
-          display: inline-block;
-}
-fieldset{
-          width: 48%;
-          margin-left: 380px;
-          margin-top: 54px;
-          position: relative;
-          background-color: antiquewhite;
-}
-#you{
-          margin-left: 35px;
-          margin-top: -42px;
-}
-#alt{
-          text-align: center;
-          position: relative;
-}
-#tab{
-          text-align: left;
-          margin-top: -54px;
-          position: relative;
-}
-#end{
-          text-align: right;
-          margin-top: -52px;
-          position: relative;
-}
-.hero,h1{
-          display: inline-block;
-          position: relative;
-}
-html, body {
-          /* box-sizing: border-box; */
-          height: 100%;
-          width: 100%;
-          padding: 10px;
-          margin-left: 15px;
-          margin-right: 15px;
-          /* background-color: #ffeead; */
-        }
-.footer,p{
-          padding-left: 8px;
-          padding-right: 19px;
-}
-.services-area{
-          margin-top: -90px;
-}
+.app-area {
+  font-size: 16px;
+  position: relative;
+  margin-top: -270px;
+  margin-left: 290px;
 
-
+  flex-wrap: wrap;
+}
+.information-area {
+  display: inline-block;
+  position: relative;
+  margin-top: 90px;
+  margin-left: 45px;
+}
+.shazzatul-area {
+  display: inline-block;
+}
+.Contact-form {
+  display: inline-block;
+}
+.Contact-list {
+  display: inline-block;
+}
+fieldset {
+  width: 48%;
+  margin-left: 380px;
+  margin-top: 54px;
+  position: relative;
+  background-color: antiquewhite;
+}
+#you {
+  margin-left: 35px;
+  margin-top: -42px;
+}
+#alt {
+  text-align: center;
+  position: relative;
+}
+#tab {
+  text-align: left;
+  margin-top: -54px;
+  position: relative;
+}
+#end {
+  text-align: right;
+  margin-top: -52px;
+  position: relative;
+}
+.hero,
+h1 {
+  display: inline-block;
+  position: relative;
+}
+html,
+body {
+  /* box-sizing: border-box; */
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+  margin-left: 15px;
+  margin-right: 15px;
+  /* background-color: #ffeead; */
+}
+.footer,
+p {
+  padding-left: 8px;
+  padding-right: 19px;
+}
+.services-area {
+  margin-top: -90px;
+}
